@@ -1,2 +1,0 @@
-# hackintosh-efi
-.
